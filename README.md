@@ -1,5 +1,5 @@
 # peppercarrot-metadata
-Community-created Metadata of Pepper &amp; Carrot and Its Episodes.
+Community-driven Metadata of Pepper &amp; Carrot and Its Episodes.
 
 The data is written in JSON format.
 
