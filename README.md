@@ -13,7 +13,7 @@ This project is licensed under [CC0 1.0 (public domain)](https://creativecommons
 
 > episode.json
 
-Lists common atrributes of episodes, including: page count(total_page), directory name(name) (e.g. "ep04_Stroke-of-genius"), and translation status(translated_languages).
+Lists common atrributes of episodes, including: page(includes title cover and credits) count(total_page), directory name(name) (e.g. "ep04_Stroke-of-genius"), and translation status(translated_languages).
 
 > files in /lang
 
