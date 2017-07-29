@@ -18,11 +18,16 @@ for match in re_lang_code_name.finditer(html):
         lang_iso_code = country_lang.alpha_2
     except:
         try:
-            country = pycountry.countries.get(alpha_2 = lang_code.upper())
-            print('do it manually for : ' + lang_code)
-            print('to help you i\'ve found country : ' + country.name )
+            country_lang = pycountry.languages.get(alpha_2=lang_code)
+            if lang_name in country_lang.name :
+                lang_iso_code = country_lang.alpha_2
         except:
-            print('do it manually for : ' + lang_code)
+            try:
+                country = pycountry.countries.get(alpha_2 = lang_code.upper())
+                print('do it manually for : ' + lang_code + ' - ' + lang_name)
+                print('to help you i\'ve found country : ' + country.name )
+            except:
+                print('do it manually for : ' + lang_code + ' - ' + lang_name)
 
     re_lang_translators = re.compile(r'<p>' + lang_name + ': (.+?)</p>')
     match_tr = re_lang_translators.search(html)
