@@ -1,0 +1,192 @@
+{
+  "uk": {
+    "name": "Ukrainian",
+    "translators": "Denis &quot;uncle Night&quot; Prisukhin and Leonid &quot;Deburger&quot; Androschuk",
+    "iso_code": ""
+  },
+  "sz": {
+    "name": "Silesian",
+    "translators": "Grzegorz Kulik",
+    "iso_code": ""
+  },
+  "br": {
+    "name": "Breton",
+    "translators": "Stefan Carpentier",
+    "iso_code": ""
+  },
+  "cs": {
+    "name": "Czech",
+    "translators": "Kate\u0159ina Fleknov\u00e1 and Martin Doucha",
+    "iso_code": ""
+  },
+  "nl": {
+    "name": "Dutch",
+    "translators": "Midgard, Willem Sonke and Peter Moonen",
+    "iso_code": ""
+  },
+  "fi": {
+    "name": "Finnish",
+    "translators": "Kari Lehto",
+    "iso_code": ""
+  },
+  "ja": {
+    "name": "Japanese",
+    "translators": "guruguru",
+    "iso_code": ""
+  },
+  "id": {
+    "name": "Indonesian",
+    "translators": "Bonaventura Aditya Perdana and Reinaldo Calvin",
+    "iso_code": ""
+  },
+  "da": {
+    "name": "Danish",
+    "translators": "<a href=\"https://github.com/Alkarex\">Alexandre</a>, <a href=\"https://github.com/Emmilinette\">Emmiline</a> Alapetite, <a href=\"https://github.com/Emmilinette\">Emmiline</a>, and Rikke Skaaning Alapetite, Rikke Alapetite and <a href=\"https://github.com/Alkarex\">Alexandre</a> Alapetite",
+    "iso_code": ""
+  },
+  "vi": {
+    "name": "Vietnamese",
+    "translators": "",
+    "iso_code": ""
+  },
+  "bn": {
+    "name": "Bengali",
+    "translators": "Hulo Biral the Tomcat",
+    "iso_code": ""
+  },
+  "en": {
+    "name": "English",
+    "translators": "Alex Gryson, David Revoy and Amireti",
+    "iso_code": ""
+  },
+  "mx": {
+    "name": "Mexican",
+    "translators": "",
+    "iso_code": ""
+  },
+  "kt": {
+    "name": "Kotava",
+    "translators": "Erwhann-Rouge, webmistusik, Mardixuran and Kotava dokalixo (<a href=\"http://kotava.org/phpBB3/index.php\">http://kotava.org/phpBB3/index.php</a>)",
+    "iso_code": ""
+  },
+  "sk": {
+    "name": "Slovak",
+    "translators": "talime",
+    "iso_code": ""
+  },
+  "es": {
+    "name": "Spanish",
+    "translators": "TheFaico",
+    "iso_code": ""
+  },
+  "el": {
+    "name": "Greek",
+    "translators": "Dimitris Axiotis and George Karettas",
+    "iso_code": ""
+  },
+  "hu": {
+    "name": "Hungarian",
+    "translators": "Hal\u00e1sz G\u00e1bor &quot;Hali&quot;",
+    "iso_code": ""
+  },
+  "pl": {
+    "name": "Polish",
+    "translators": "Przemys\u0142aw &quot;Kev&quot; Chudzia and S\u00f6lve Svartskogen",
+    "iso_code": ""
+  },
+  "cn": {
+    "name": "Chinese",
+    "translators": "Ran Zhuang and Yan Jing",
+    "iso_code": ""
+  },
+  "pt": {
+    "name": "Portuguese",
+    "translators": "Alexandre E. Almeida, Alexandre Esteves Almeida and Frederico Batista",
+    "iso_code": ""
+  },
+  "ru": {
+    "name": "Russian",
+    "translators": "Andrew &quot;Akari&quot; Alexeyew, Denis &quot;uncle Night&quot; Prisukhin, Gleki Arxokuna and gleki",
+    "iso_code": ""
+  },
+  "ar": {
+    "name": "Arabic",
+    "translators": "Mahwiii",
+    "iso_code": ""
+  },
+  "sv": {
+    "name": "Swedish",
+    "translators": "Mikael Olofsson, Mikael &quot;Quiphius&quot; Olofsson and Quiphius",
+    "iso_code": ""
+  },
+  "eo": {
+    "name": "Esperanto",
+    "translators": "LibreFan, Kaoseto kaj Nay Ledofi\u015d, libre fan (librefan.eu.org), Kaoseto, Spen\u0109jo and Naj Ledofi\u015d",
+    "iso_code": ""
+  },
+  "io": {
+    "name": "Ido",
+    "translators": "Gilles-Philippe Morin, Brian E. Drake and William Johnsson",
+    "iso_code": ""
+  },
+  "it": {
+    "name": "Italian",
+    "translators": "Antonio Parisi and Carlo Gandolfi",
+    "iso_code": ""
+  },
+  "fa": {
+    "name": "Persian",
+    "translators": "",
+    "iso_code": ""
+  },
+  "no": {
+    "name": "Norwegian",
+    "translators": "Thomas Nordstr\u00f8m",
+    "iso_code": ""
+  },
+  "jb": {
+    "name": "Lojban",
+    "translators": "Gleki Arxokuna, lai krtis and mezohe",
+    "iso_code": ""
+  },
+  "ca": {
+    "name": "Catalan",
+    "translators": "Juan Jos\u00e9 Segura",
+    "iso_code": ""
+  },
+  "ro": {
+    "name": "Romanian",
+    "translators": "Costin-Sorin Ionescu",
+    "iso_code": ""
+  },
+  "de": {
+    "name": "German",
+    "translators": "Alexandra Jordan, Helmar Suschka, Carlo Gandolfi, colognella, Julian Eric Ain, Philipp (hapit) Hemmer and Philipp Hemmer",
+    "iso_code": ""
+  },
+  "fr": {
+    "name": "French",
+    "translators": "David Revoy, Aur\u00e9lien G\u00e2teau, Remi Rampin, Xavier Dolques, Deevad, Nartance, Valvin and Calimeroteknik.",
+    "iso_code": ""
+  },
+  "si": {
+    "name": "Singhalese",
+    "translators": "",
+    "iso_code": ""
+  },
+  "sr": {
+    "name": "Serbian",
+    "translators": "Marko Ivancevic",
+    "iso_code": ""
+  },
+  "kr": {
+    "name": "Korean",
+    "translators": "Jihoon Kim, Shikamaru &quot;initbar&quot; Yamamoto and Shikamaru Yamamoto",
+    "iso_code": ""
+  },
+  "la": {
+    "name": "Latin",
+    "translators": "Guillaume Lestringant",
+    "iso_code": ""
+  }
+}
