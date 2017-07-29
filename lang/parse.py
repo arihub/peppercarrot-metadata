@@ -17,7 +17,12 @@ for match in re_lang_code_name.finditer(html):
         country_lang = pycountry.languages.get(name=lang_name)
         lang_iso_code = country_lang.alpha_2
     except:
-        print('do it manually for : ' + lang_code)
+        try:
+            country = pycountry.countries.get(alpha_2 = lang_code.upper())
+            print('do it manually for : ' + lang_code)
+            print('to help you i\'ve found country : ' + country.name )
+        except:
+            print('do it manually for : ' + lang_code)
 
     re_lang_translators = re.compile(r'<p>' + lang_name + ': (.+?)</p>')
     match_tr = re_lang_translators.search(html)
