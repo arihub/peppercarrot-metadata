@@ -1,6 +1,8 @@
 import requests
 import re
 import json
+import pycountry
+
 
 r = requests.get('https://www.peppercarrot.com/en/static6/sources&page=translation')
 html = r.text
@@ -10,12 +12,19 @@ for match in re_lang_code_name.finditer(html):
     lang_code=match.group(1)
     lang_name=match.group(2).strip()
     lang_translators = ''
+    lang_iso_code = ''
+    try:
+        country_lang = pycountry.languages.get(name=lang_name)
+        lang_iso_code = country_lang.alpha_2
+    except:
+        print('do it manually for : ' + lang_code)
+
     re_lang_translators = re.compile(r'<p>' + lang_name + ': (.+?)</p>')
     match_tr = re_lang_translators.search(html)
     if match_tr:
         lang_translators = match_tr.group(1)
     
-    langs[lang_code] = {'name' : lang_name, 'iso_code' : '', 'translators': lang_translators}
+    langs[lang_code] = {'name' : lang_name, 'iso_code' : lang_iso_code, 'translators': lang_translators}
 
 with open('lang.json', 'w') as fp:
     json.dump(langs, fp, indent=2)
