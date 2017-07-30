@@ -134,7 +134,8 @@
   "mx": {
     "translators": "",
     "name": "Mexican Spanish",
-    "iso_code": "es_MX",
+    "iso_code": "es",
+    "iso_locale": "MX",
     "iso_version":1
   },
   "nl": {
