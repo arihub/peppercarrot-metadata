@@ -125,12 +125,6 @@
     "iso_code": "ko",
     "iso_version":1
   },
-  "kt": {
-    "translators": "Erwhann-Rouge, webmistusik, Mardixuran and Kotava dokalixo (http://kotava.org/phpBB3/index.php)",
-    "name": "Kotava",
-    "iso_code": "avk",
-    "iso_version":3
-  },
   "la": {
     "translators": "Guillaume Lestringant",
     "name": "Latin",
@@ -140,7 +134,7 @@
   "mx": {
     "translators": "",
     "name": "Mexican Spanish",
-    "iso_code": "es_MX"
+    "iso_code": "es_MX",
     "iso_version":1
   },
   "nl": {
@@ -225,6 +219,12 @@
   },
   
   
+  "kt": {
+    "translators": "Erwhann-Rouge, webmistusik, Mardixuran and Kotava dokalixo (http://kotava.org/phpBB3/index.php)",
+    "name": "Kotava",
+    "iso_code": "avk",
+    "iso_version":3
+  },
   "sz": {
     "translators": "Grzegorz Kulik",
     "name": "Silesian",
