@@ -1,192 +1,234 @@
 {
-  "ro": {
-    "translators": "Costin-Sorin Ionescu",
-    "name": "Romanian",
-    "iso_code": "ro"
-  },
-  "jb": {
-    "translators": "Gleki Arxokuna, lai krtis and mezohe",
-    "name": "Lojban",
-    "iso_code": ""
-  },
-  "en": {
-    "translators": "Alex Gryson, David Revoy and Amireti",
-    "name": "English",
-    "iso_code": "en"
-  },
-  "uk": {
-    "translators": "Denis &quot;uncle Night&quot; Prisukhin and Leonid &quot;Deburger&quot; Androschuk",
-    "name": "Ukrainian",
-    "iso_code": "uk"
-  },
-  "kt": {
-    "translators": "Erwhann-Rouge, webmistusik, Mardixuran and Kotava dokalixo (<a href=\"http://kotava.org/phpBB3/index.php\">http://kotava.org/phpBB3/index.php</a>)",
-    "name": "Kotava",
-    "iso_code": ""
-  },
-  "br": {
-    "translators": "Stefan Carpentier",
-    "name": "Breton",
-    "iso_code": "br"
-  },
-  "fi": {
-    "translators": "Kari Lehto",
-    "name": "Finnish",
-    "iso_code": "fi"
-  },
-  "ja": {
-    "translators": "guruguru",
-    "name": "Japanese",
-    "iso_code": "ja"
-  },
-  "kr": {
-    "translators": "Jihoon Kim, Shikamaru &quot;initbar&quot; Yamamoto and Shikamaru Yamamoto",
-    "name": "Korean",
-    "iso_code": "ko"
-  },
-  "no": {
-    "translators": "Thomas Nordstr\u00f8m",
-    "name": "Norwegian",
-    "iso_code": "no"
-  },
-  "vi": {
-    "translators": "",
-    "name": "Vietnamese",
-    "iso_code": "vi"
-  },
-  "fa": {
-    "translators": "",
-    "name": "Persian",
-    "iso_code": "fa"
-  },
-  "es": {
-    "translators": "TheFaico",
-    "name": "Spanish",
-    "iso_code": "es"
-  },
-  "pt": {
-    "translators": "Alexandre E. Almeida, Alexandre Esteves Almeida and Frederico Batista",
-    "name": "Portuguese",
-    "iso_code": "pt"
-  },
-  "ru": {
-    "translators": "Andrew &quot;Akari&quot; Alexeyew, Denis &quot;uncle Night&quot; Prisukhin, Gleki Arxokuna and gleki",
-    "name": "Russian",
-    "iso_code": "ru"
-  },
-  "cn": {
-    "translators": "Ran Zhuang and Yan Jing",
-    "name": "Chinese",
-    "iso_code": "zh"
-  },
-  "sv": {
-    "translators": "Mikael Olofsson, Mikael &quot;Quiphius&quot; Olofsson and Quiphius",
-    "name": "Swedish",
-    "iso_code": "sv"
-  },
-  "la": {
-    "translators": "Guillaume Lestringant",
-    "name": "Latin",
-    "iso_code": "la"
-  },
-  "it": {
-    "translators": "Antonio Parisi and Carlo Gandolfi",
-    "name": "Italian",
-    "iso_code": "it"
-  },
   "ar": {
     "translators": "Mahwiii",
     "name": "Arabic",
-    "iso_code": "ar"
-  },
-  "cs": {
-    "translators": "Kate\u0159ina Fleknov\u00e1 and Martin Doucha",
-    "name": "Czech",
-    "iso_code": "cs"
-  },
-  "pl": {
-    "translators": "Przemys\u0142aw &quot;Kev&quot; Chudzia and S\u00f6lve Svartskogen",
-    "name": "Polish",
-    "iso_code": "pl"
-  },
-  "fr": {
-    "translators": "David Revoy, Aur\u00e9lien G\u00e2teau, Remi Rampin, Xavier Dolques, Deevad, Nartance, Valvin and Calimeroteknik.",
-    "name": "French",
-    "iso_code": "fr"
-  },
-  "sz": {
-    "translators": "Grzegorz Kulik",
-    "name": "Silesian",
-    "iso_code": ""
-  },
-  "ca": {
-    "translators": "Juan Jos\u00e9 Segura",
-    "name": "Catalan",
-    "iso_code": "ca"
-  },
-  "el": {
-    "translators": "Dimitris Axiotis and George Karettas",
-    "name": "Greek",
-    "iso_code": "el"
-  },
-  "eo": {
-    "translators": "LibreFan, Kaoseto kaj Nay Ledofi\u015d, libre fan (librefan.eu.org), Kaoseto, Spen\u0109jo and Naj Ledofi\u015d",
-    "name": "Esperanto",
-    "iso_code": "eo"
-  },
-  "da": {
-    "translators": "<a href=\"https://github.com/Alkarex\">Alexandre</a>, <a href=\"https://github.com/Emmilinette\">Emmiline</a> Alapetite, <a href=\"https://github.com/Emmilinette\">Emmiline</a>, and Rikke Skaaning Alapetite, Rikke Alapetite and <a href=\"https://github.com/Alkarex\">Alexandre</a> Alapetite",
-    "name": "Danish",
-    "iso_code": "da"
-  },
-  "io": {
-    "translators": "Gilles-Philippe Morin, Brian E. Drake and William Johnsson",
-    "name": "Ido",
-    "iso_code": "io"
-  },
-  "si": {
-    "translators": "",
-    "name": "Singhalese",
-    "iso_code": ""
-  },
-  "sr": {
-    "translators": "Marko Ivancevic",
-    "name": "Serbian",
-    "iso_code": "sr"
-  },
-  "id": {
-    "translators": "Bonaventura Aditya Perdana and Reinaldo Calvin",
-    "name": "Indonesian",
-    "iso_code": "id"
-  },
-  "mx": {
-    "translators": "",
-    "name": "Mexican",
-    "iso_code": ""
-  },
-  "hu": {
-    "translators": "Hal\u00e1sz G\u00e1bor &quot;Hali&quot;",
-    "name": "Hungarian",
-    "iso_code": "hu"
+    "iso_code": "ar",
+    "iso_version":1
   },
   "bn": {
     "translators": "Hulo Biral the Tomcat",
     "name": "Bengali",
-    "iso_code": "bn"
+    "iso_code": "bn",
+    "iso_version":1
   },
-  "nl": {
-    "translators": "Midgard, Willem Sonke and Peter Moonen",
-    "name": "Dutch",
-    "iso_code": "nl"
+  "br": {
+    "translators": "Stefan Carpentier",
+    "name": "Breton",
+    "iso_code": "br",
+    "iso_version":1
+  },
+  "ca": {
+    "translators": "Juan José Segura",
+    "name": "Catalan",
+    "iso_code": "ca",
+    "iso_version":1
+  },
+  "cn": {
+    "translators": "Ran Zhuang and Yan Jing",
+    "name": "Chinese",
+    "iso_code": "zh",
+    "iso_version":1
+  },
+  "cs": {
+    "translators": "Kateřina Fleknová and Martin Doucha",
+    "name": "Czech",
+    "iso_code": "cs",
+    "iso_version":1
+  },
+  "da": {
+    "translators": "Alexandre, Emmiline Alapetite, Emmiline, Rikke Skaaning Alapetite, Rikke Alapetite and Alexandre Alapetite",
+    "name": "Danish",
+    "iso_code": "da",
+    "iso_version":1
   },
   "de": {
     "translators": "Alexandra Jordan, Helmar Suschka, Carlo Gandolfi, colognella, Julian Eric Ain, Philipp (hapit) Hemmer and Philipp Hemmer",
     "name": "German",
-    "iso_code": "de"
+    "iso_code": "de",
+    "iso_version":1
+  },
+  "el": {
+    "translators": "Dimitris Axiotis and George Karettas",
+    "name": "Greek",
+    "iso_code": "el",
+    "iso_version":1
+  },
+  "en": {
+    "translators": "Alex Gryson, David Revoy and Amireti",
+    "name": "English",
+    "iso_code": "en",
+    "iso_version":1
+  },
+  "eo": {
+    "translators": "LibreFan, Kaoseto kaj Nay Ledofiŝ, libre fan (librefan.eu.org), Kaoseto, Spenĉjo and Naj Ledofiŝ",
+    "name": "Esperanto",
+    "iso_code": "eo",
+    "iso_version":1
+  },
+  "es": {
+    "translators": "TheFaico",
+    "name": "Spanish",
+    "iso_code": "es",
+    "iso_version":1
+  },
+  "fa": {
+    "translators": "",
+    "name": "Persian",
+    "iso_code": "fa",
+    "iso_version":1
+  },
+  "fr": {
+    "translators": "David Revoy, Aurélien Gâteau, Remi Rampin, Xavier Dolques, Deevad, Nartance, Valvin and Calimeroteknik",
+    "name": "French",
+    "iso_code": "fr",
+    "iso_version":1
+  },
+  "fi": {
+    "translators": "Kari Lehto",
+    "name": "Finnish",
+    "iso_code": "fi",
+    "iso_version":1
+  },
+  "hu": {
+    "translators": "Halász Gábor \"Hali\"",
+    "name": "Hungarian",
+    "iso_code": "hu",
+    "iso_version":1
+  },
+  "id": {
+    "translators": "Bonaventura Aditya Perdana and Reinaldo Calvin",
+    "name": "Indonesian",
+    "iso_code": "id",
+    "iso_version":1
+  },
+  "io": {
+    "translators": "Gilles-Philippe Morin, Brian E. Drake and William Johnsson",
+    "name": "Ido",
+    "iso_code": "io",
+    "iso_version":1
+  },
+  "it": {
+    "translators": "Antonio Parisi and Carlo Gandolfi",
+    "name": "Italian",
+    "iso_code": "it",
+    "iso_version":1
+  },
+  "ja": {
+    "translators": "gufguru",
+    "name": "Japanese",
+    "iso_code": "ja",
+    "iso_version":1
+  },
+  "kr": {
+    "translators": "Jihoon Kim, Shikamaru &quot;initbar&quot; Yamamoto and Shikamaru Yamamoto",
+    "name": "Korean",
+    "iso_code": "ko",
+    "iso_version":1
+  },
+  "kt": {
+    "translators": "Erwhann-Rouge, webmistusik, Mardixuran and Kotava dokalixo (http://kotava.org/phpBB3/index.php)",
+    "name": "Kotava",
+    "iso_code": "avk",
+    "iso_version":3
+  },
+  "la": {
+    "translators": "Guillaume Lestringant",
+    "name": "Latin",
+    "iso_code": "la",
+    "iso_version":1
+  },
+  "mx": {
+    "translators": "",
+    "name": "Mexican Spanish",
+    "iso_code": "es_MX"
+    "iso_version":1
+  },
+  "nl": {
+    "translators": "Midgard, Willem Sonke and Peter Moonen",
+    "name": "Dutch",
+    "iso_code": "nl",
+    "iso_version":1
+  },
+  "no": {
+    "translators": "Thomas Nordstrøm",
+    "name": "Norwegian",
+    "iso_code": "no",
+    "iso_version":1
+  },
+  "pl": {
+    "translators": "Przemysław \"Kev\" Chudzia and Sölve Svartskogen",
+    "name": "Polish",
+    "iso_code": "pl",
+    "iso_version":1
+  },
+  "pt": {
+    "translators": "Alexandre E. Almeida, Alexandre Esteves Almeida and Frederico Batista",
+    "name": "Portuguese",
+    "iso_code": "pt",
+    "iso_version":1
+  },
+  "ro": {
+    "translators": "Costin-Sorin Ionescu",
+    "name": "Romanian",
+    "iso_code": "ro",
+    "iso_version":1
+  },
+  "ru": {
+    "translators": "Andrew \"Akari\" Alexeyew, Denis \"uncle Night\" Prisukhin, Gleki Arxokuna and gleki",
+    "name": "Russian",
+    "iso_code": "ru",
+    "iso_version":1
+  },
+  "si": {
+    "translators": "Tharinda Divakara",
+    "name": "Sinhalese",
+    "iso_code": "si",
+    "iso_version":1
   },
   "sk": {
     "translators": "talime",
     "name": "Slovak",
-    "iso_code": "sk"
-  }
+    "iso_code": "sk",
+    "iso_version":1
+  },
+  "sr": {
+    "translators": "Marko Ivancevic",
+    "name": "Serbian",
+    "iso_code": "sr",
+    "iso_version":1
+  },
+  "sv": {
+    "translators": "Mikael Olofsson, Mikael &quot;Quiphius&quot; Olofsson and Quiphius",
+    "name": "Swedish",
+    "iso_code": "sv",
+    "iso_version":1
+  },
+  "uk": {
+    "translators": "Denis \"uncle Night\" Prisukhin and Leonid \"Deburger\" Androschuk",
+    "name": "Ukrainian",
+    "iso_code": "uk",
+    "iso_version":1
+  },
+  "vi": {
+    "translators": "",
+    "name": "Vietnamese",
+    "iso_code": "vi",
+    "iso_version":1
+  },
+  
+  
+  "jb": {
+    "translators": "Gleki Arxokuna, lai krtis and mezohe",
+    "name": "Lojban",
+    "iso_code": "jbo",
+    "iso_version":2
+  },
+  
+  
+  "sz": {
+    "translators": "Grzegorz Kulik",
+    "name": "Silesian",
+    "iso_code": "szl",
+    "iso_version":3
+  },
 }
