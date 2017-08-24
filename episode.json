@@ -493,5 +493,23 @@
       "ru",
       "sk", "sv"
     ]
+  },
+  {
+    "name": "ep23_Take-a-Chance",
+    "total_page": 9,
+    "translated_languages": [
+      "cn", "cs",
+      "de",
+      "en", "es",
+      "fi", "fr",
+      "id", "it",
+      "ja",
+      "mx",
+      "nl", "no",
+      "ru",
+      "sk",
+      "uk",
+      "vi"
+    ]
   }
 ]
