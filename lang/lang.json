@@ -232,4 +232,11 @@
     "iso_code": "szl",
     "iso_version":3
   }
+  
+  "go":{
+    "translators": "Patrik Deriano and Gwenaelle Lefeuvre",
+    "name": "Gallo",
+    "iso_code": "",
+    "iso_version": -1
+  }
 }
