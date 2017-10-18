@@ -218,6 +218,12 @@
     "iso_code": "jbo",
     "iso_version":2
   },
+  "ph": {
+    "translators": "Paolo Abes",
+    "name": "Filipino",
+    "iso_code": "fil",
+    "iso_version": 2
+  },
   
   
   "kt": {
