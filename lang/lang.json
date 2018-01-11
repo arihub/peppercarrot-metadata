@@ -153,6 +153,13 @@
     "iso_code": "la",
     "iso_version":1
   },
+  "ml": {
+    "translators": ["Pranav Jerry"],
+    "name": "Malayalam",
+    "local_name": "മലയാളം",
+    "iso_code": "ml",
+    "iso_version":1
+  },
   "mx": {
     "translators": ["RJ Quiralta"],
     "name": "Mexican Spanish",
