@@ -253,7 +253,6 @@
     "iso_version":1
   },
   
-  
   "jb": {
     "translators": ["la gleki (ly. Gleki Arxokuna ly.)", "lai krtis", "mezohe"],
     "name": "Lojban",
@@ -261,8 +260,15 @@
     "iso_code": "jbo",
     "iso_version":2
   },
+  "ns": {
+    "translators": [],
+    "name": "Low German",
+    "local_name": "Plattdüütsch",
+    "iso_code": "nds",
+    "iso_version":2
+  },
   "ph": {
-    "translators": "Paolo Abes",
+    "translators": ["Paolo Abes"],
     "name": "Filipino",
     "local_name": "Filipino",
     "iso_code": "fil",
