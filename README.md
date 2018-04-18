@@ -15,6 +15,12 @@ This project is licensed under [CC0 1.0 (public domain)](https://creativecommons
 
 Lists common atrributes of episodes, including: page(includes title cover and credits) count(total_page), directory name(name) (e.g. "ep04_Stroke-of-genius"), and translation status(translated_languages).
 
+**This file is obsolete. Refer to auto-generated [official file](https://peppercarrot.com/0_sources/episodes.json).**
+
+> gif_slides.json
+
+Lists info of slides that are in .gif format.
+
 > files in /lang
 
 Lists language-specific attributes of translated episodes, including: the displayed title(title) (e.g. en: "Episode 4 : Stroke of Genius").
