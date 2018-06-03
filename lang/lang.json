@@ -184,9 +184,9 @@
   },
   "no": {
     "translators": ["Thomas Nordstrøm"],
-    "name": "Norwegian",
-    "local_name": "Norsk",
-    "iso_code": "no",
+    "name": "Norwegian Bokmål",
+    "local_name": "Bokmål",
+    "iso_code": "nb",
     "iso_version":1
   },
   "pl": {
