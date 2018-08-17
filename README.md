@@ -1,4 +1,6 @@
 # peppercarrot-metadata
+**UPDATE: The content of this repo has been merged into or superceded by files in the [official Pepper & Carrot directory](https://peppercarrot.com/0_sources/). Check below for more details.**
+
 Community-driven Metadata of Pepper &amp; Carrot and Its Episodes.
 
 The data is written in JSON format.
@@ -21,6 +23,8 @@ Lists common atrributes of episodes, including: page(includes title cover and cr
 
 Lists info of slides that are in .gif format.
 
+**This file is obsolete. Refer to file extensions of each files in the auto-generated [official file](https://peppercarrot.com/0_sources/episodes-v1.json).**
+
 > files in /lang
 
 Lists language-specific attributes of translated episodes, including: the displayed title(title) (e.g. en: "Episode 4 : Stroke of Genius").
@@ -30,3 +34,5 @@ Each file name is a name of the language as shown in [the translations panel](ht
 > /lang/lang.json
 
 This is a special file for mapping P&C language code with the standard [ISO 639-1](https://en.m.wikipedia.org/wiki/ISO_639-1). It also includes full name in English for identifying languages that are not listed in ISO specifications.
+
+**This file is obsolete. Refer to the [official file](https://peppercarrot.com/0_sources/langs.json).**
